@@ -17,7 +17,7 @@ and the other on countering global warming and sea level rise, pursuing innovati
 Furthermore, we also have three more mini-events from our sponsors, a talk on enhancing our productivity from co-founder of Centered, 
 a recording from Echo3D on AR/VR technology, and a CTF (capture the flag) cybersecurity challenge from Synk.
 <br />
-For submission, we require participants to link their project's Github repository to their submission page if possible. This not only helped us suspicius projects through the commit history,
+For submission, we require participants to link their project's Github repository to their submission page if possible. This not only helped us finding suspicius projects through the commit history,
 but also allowed an easy to navigate user interface for us to look at the way people write code. Moreover, with the help of MLH (Major League Hacking), we have
 an special award on "Best Use of Github" that we advertised in our opening and closing ceremony slides.
 
