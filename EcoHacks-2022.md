@@ -35,7 +35,7 @@ an special award on "Best Use of Github" that we advertised in our opening and c
 ### Tell us about your hacker demographics
 
  - EcoHacks 2022 Hackathon is mainly targeted towards but not limited to people who are currently in high school or college.
- - 50.57% of the participants are new to hackathons and had little previous projects building experiences. 
+ - 50.57% of the participants are new to hackathons and had little previous projects building experience. 
  - Out of 609 people registered through the registeration form, there are 69.3% men, 25.6% women, 3.9% perfer not to answer, 0.7% non-binary, 0.4% perfer to self-describe. 
  - Out of 308 people active attendees, there are 73.1% men, 24.1% women, 2.4% non-binary, and 1% other.
  
